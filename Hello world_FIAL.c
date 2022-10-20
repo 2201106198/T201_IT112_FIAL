@@ -3,7 +3,8 @@
 int main()
 
 {
- printf("Jorell E. Abecia /n") ;
+ printf("Hello World");
+ printf("Fial, John Mark /n") ;
  printf("Section T");
  return 0;
 }
